@@ -1,4 +1,12 @@
-﻿## 中文版教程：https://www.showdoc.cc/help 
+## 补充说明
+
+### 改动内容
+
+1. 修改原有的docstring解析，现仅支持python的格式
+2. 自动生成API文档脚本更新
+
+
+## 中文版教程：https://www.showdoc.cc/help 
 
 ### What is ShowDoc ?
 
